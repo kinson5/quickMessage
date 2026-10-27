@@ -1,0 +1,34 @@
+# Build artifacts & binaries
+quickMessage_mac
+quickMessage_win.exe
+*.o
+*.obj
+*.res
+app_res.o
+
+# Temporary runtime folders
+received_files/
+release/
+dist/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Python cache & temporary build scripts
+__pycache__/
+*.pyc
+make_icons.py
+process_icon.py
+test.ico
+gen_web_ui.py
+update_main.py
+
+# Editor & IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
