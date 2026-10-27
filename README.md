@@ -7,7 +7,7 @@
 **A lightweight, zero-configuration, cross-platform LAN transfer tool with built-in privacy protection and burn-after-read.**  
 **一款极简、免安装、单文件、跨平台的局域网快传利器，专注隐私保护与阅后即焚。**
 
-[![Version](https://img.shields.io/badge/version-v0.8-blue.svg?style=flat-square)](https://github.com)
+[![Version](https://img.shields.io/badge/version-v0.8-blue.svg?style=flat-square)](https://github.com/kinson5/quickMessage/releases/tag/v0.8)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](./LICENSE)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20(XP~11)-orange.svg?style=flat-square)](https://github.com)
 [![Binary Size](https://img.shields.io/badge/size-%3C400KB-brightgreen.svg?style=flat-square)](https://github.com)
@@ -54,7 +54,7 @@
 ### 🚀 快速上手
 
 #### 方式一：直接运行预编译版本 (推荐)
-从 [Releases](../../releases) 页面下载对应系统的压缩包：
+从 [Releases](https://github.com/kinson5/quickMessage/releases) 页面下载对应系统的压缩包：
 - **macOS**：解压运行 `QuickMessage.app` 或在终端运行 `./quickMessage_mac`。
 - **Windows**：双击运行 `quickMessage_win.exe`。
 
