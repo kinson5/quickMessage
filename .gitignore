@@ -32,3 +32,6 @@ update_main.py
 .idea/
 *.sublime-project
 *.sublime-workspace
+
+# Private iOS Native App (Closed Source for App Store)
+ios/
